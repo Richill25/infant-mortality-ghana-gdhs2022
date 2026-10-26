@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Analysis code for infant mortality risk modelling in Ghana using the 2022 Demographic and Health Survey"
+version: 1.0.0
+authors:
+  - family-names: Nyantakyiwaa
+    given-names: Richill Ataa
+    affiliation: "African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda"
+  - family-names: Ruggeri
+    given-names: Fabrizio
+    affiliation: "National Research Council, Institute of Applied Mathematics and Information Technologies (CNR-IMATI), Milano, Italy"
+repository-code: "https://github.com/Richill25/infant-mortality-ghana-gdhs2022"
+license: MIT
